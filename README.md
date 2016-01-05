@@ -1,22 +1,14 @@
 使用方法为前后冒号包围表情代号的句法。
 
-Use a colon to the front and rear surround expression syntax designations.
-
 : b l u s h : 会显示成【记得把里面的空格去掉】
 
-: b l u s h : It will be displayed as【Remember to remove the spaces inside】
-
 所以你在提交代码的时候可以这样写提交信息：
-
-So you can write code to submit information submitted when:
 
 git commit –m 'commit some changes :blush:'
 
 也可以直接复制以下你选中的粘贴到github项目中你所需要的文本或者标题里面，希望你enjoy it! star or fork now:smile:
 
-You can also copy the following selected pasted into github project you need inside text or title, I hope you enjoy it! Star or fork now:smile:
-
-People
+###People
 
 :bowtie:
 :smile:
@@ -213,7 +205,7 @@ People
 :trollface:
 
 
-Nature
+###Nature
 
 :sunny:
 :umbrella:
@@ -332,7 +324,7 @@ Nature
 :squirrel:
 
 
-Objects
+###Objects
 
 :bamboo:
 :gift_heart:
@@ -597,7 +589,7 @@ Objects
 :corn:
 
 
-Places
+###Places
 
 :house:
 :house_with_garden:
@@ -707,7 +699,7 @@ Places
 :de:
 
 
-Symbols
+###Symbols
 
 :one:
 :two:
@@ -911,9 +903,3 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-
->开了交流群啦，欢迎加入交流心得
->
->http://jq.qq.com/?_wv=1027&k=iRLQRp
->
->QQ群365780609
