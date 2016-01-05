@@ -1,14 +1,4 @@
-使用方法为前后冒号包围表情代号的句法。
-
-: b l u s h : 会显示成【记得把里面的空格去掉】
-
-所以你在提交代码的时候可以这样写提交信息：
-
-git commit –m 'commit some changes :blush:'
-
-也可以直接复制以下你选中的粘贴到github项目中你所需要的文本或者标题里面，希望你enjoy it! star or fork now:smile:
-
-###People
+##People
 
 :bowtie:
 :smile:
@@ -205,7 +195,7 @@ git commit –m 'commit some changes :blush:'
 :trollface:
 
 
-###Nature
+##Nature
 
 :sunny:
 :umbrella:
@@ -324,7 +314,7 @@ git commit –m 'commit some changes :blush:'
 :squirrel:
 
 
-###Objects
+##Objects
 
 :bamboo:
 :gift_heart:
@@ -589,7 +579,7 @@ git commit –m 'commit some changes :blush:'
 :corn:
 
 
-###Places
+##Places
 
 :house:
 :house_with_garden:
@@ -699,7 +689,7 @@ git commit –m 'commit some changes :blush:'
 :de:
 
 
-###Symbols
+##Symbols
 
 :one:
 :two:
